@@ -1,7 +1,7 @@
 # Cricket-data-analytics
 Cricket data analytics using python, pandas, web scraping and Power BI
 
-#Abstract
+# Abstract
 
 Cricket is a popular sport that generates a vast amount of data, which can be used to gain valuable insights into player performance and team strategies. In this project, we will explore the use of web scraping, Python, Pandas, and Power BI to perform data analytics on cricket data.
 
