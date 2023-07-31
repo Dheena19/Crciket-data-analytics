@@ -7,6 +7,6 @@ Cricket is a popular sport that generates a vast amount of data, which can be us
 
 Starting the project by scraping data from ESPNCricInfo website, including player statistics, match results, and team rankings. Using Python and Pandas, we will clean, preprocess, and transform the data into a format that can be used for analysis. Then using various data visualization techniques to generate insights into player and team performance, and to identify patterns and trends in the data.
 
-Finally, creating interactive dashboards using Power BI to present our findings and allow users to explore the data in a user-friendly way. The project will demonstrate the power of big data analytics and provide valuable insights into cricket performance and strategy.//
+Finally, creating interactive dashboards using Power BI to present our findings and allow users to explore the data in a user-friendly way. The project will demonstrate the power of big data analytics and provide valuable insights into cricket performance and strategy.
 
 
